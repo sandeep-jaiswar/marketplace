@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#swc
+.swc
+
+#test-results
+test-results/
